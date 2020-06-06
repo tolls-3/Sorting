@@ -1,4 +1,6 @@
 # TO-DO: Complete the selection_sort() function below 
+
+#  arr1 = [1, 5, 8, 4, 2, 9, 6, 0, 3, 7]
 def selection_sort( arr ):
     # loop through n-1 elements
     for i in range(0, len(arr) - 1):
